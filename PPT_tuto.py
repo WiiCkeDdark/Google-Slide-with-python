@@ -1,9 +1,7 @@
 from pptx import Presentation
 from pptx.util import Inches
-from pptx import Presentation
 from pptx.chart.data import ChartData
 from pptx.enum.chart import XL_CHART_TYPE
-from pptx.util import Inches
 from pptx.enum.chart import XL_LEGEND_POSITION
 
 # create function to create first slide
