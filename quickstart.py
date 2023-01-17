@@ -11,7 +11,7 @@ from googleapiclient.errors import HttpError
 # If modifying these scopes, delete the file token.json.
 # ici c'est le scope qui permet de faire savoir a Google les autorisations que tu accordes a ce programme
 # sur ce lien tu as toutes les autorisations possibles : https://developers.google.com/identity/protocols/oauth2/scopes#slides
-SCOPES = ['hhttps://www.googleapis.com/auth/drive']
+SCOPES = ['https://www.googleapis.com/auth/drive']
 
 # The ID of a sample presentation.
 # ID que tu trouves dans la barre de recherche quand tu as un slide ouvert entre /d/ et /edit
